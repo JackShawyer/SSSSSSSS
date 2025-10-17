@@ -51,7 +51,8 @@
               "RelativeToolTip": "Django_Tutorial\\myproject\\manage.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-10-17T10:05:08.656Z"
+              "WhenOpened": "2025-10-17T10:05:08.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -63,7 +64,8 @@
               "RelativeToolTip": "Django_Tutorial\\myproject\\myproject\\settings.py",
               "ViewState": "AgIAAHsAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-10-17T10:04:32.603Z"
+              "WhenOpened": "2025-10-17T10:04:32.603Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,7 +77,8 @@
               "RelativeToolTip": "Django_Tutorial\\myproject\\main\\views.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-09-24T15:22:06.861Z"
+              "WhenOpened": "2025-09-24T15:22:06.861Z",
+              "EditorCaption": ""
             }
           ]
         }

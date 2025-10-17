@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Django_Tutorial",
+    "\\Django_Tutorial\\myproject",
+    "\\Django_Tutorial\\myproject\\main",
+    "\\Django_Tutorial\\myproject\\myproject"
   ],
-  "SelectedNode": "\\C:\\Users\\899801\\Source\\Repos\\SSSSSSSS",
+  "SelectedNode": "\\Django_Tutorial\\myproject\\main\\urls.py",
   "PreviewInSolutionExplorer": false
 }
